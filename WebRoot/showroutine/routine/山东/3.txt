@@ -1,0 +1,25 @@
+﻿<article>
+<h1>胶东半岛四日游</h1>
+<p>第一天抵达青岛，先参观体现“五四运动”精神的五四广场，广场中间有五四火炬的雕塑，接着参观2008年帆船比赛场地——青岛国际帆船中心</p>
+<img src="http://localhost:8080/trival/images2/山东/五四广场1.jpg"/>
+<img src="http://localhost:8080/trival/images2/山东/五四广场2.jpg"/>
+<img src="http://localhost:8080/trival/images2/山东/青岛音乐广场1.jpg"/>
+<img src="http://localhost:8080/trival/images2/山东/青岛音乐广场2.jpg"/>
+<img src="http://localhost:8080/trival/images2/山东/青岛国际帆船中心1.jpg"/>
+<img src="http://localhost:8080/trival/images2/山东/青岛国际帆船中心2.jpg"/>
+<p>第二天是青岛的其他具体景点，主要是滨海步行道，它将青岛市栈桥公园、海军博物馆、小青岛公园、鲁迅公园、第一海水浴场、八大关风景区、石老人海水浴场等主要旅游景点串联在一起，形成一条独具特色的海滨风景画廊。</p>
+<img src="http://localhost:8080/trival/images2/山东/滨海步行道1.jpg"/>
+<img src="http://localhost:8080/trival/images2/山东/滨海步行道2.jpg"/>
+<p>第三天先是烟台的标志性景区——烟台山景区，面积45公顷，是国家4A级旅游景区，拥有亚洲唯一保存最完整最密集的近代外国领事馆群。由烟台山公园发展而成，烟台山景区是集海滨自然风光、开埠文化、文物遗址、人文自然景观和异国风情于一体的山、海、城、港连为一体的特色景观，浓缩了烟台600多年的沧桑历史。主要景点有墩台灯塔、燕台石、抗日烈士纪念碑、石船、观海楼。接着是参观与黄鹤楼、岳阳楼、滕王阁并称为“中国四大名楼”的蓬莱阁，由蓬莱阁、天后宫、龙王宫、吕祖殿、三清殿、弥陀寺等6个单体和附属建筑共组成规模宏大的古建筑群。最后是著名的蓬莱阁毗邻的蓬莱海洋极地世界，这是一个集观赏性、娱乐性、趣味性、惊险刺激和反映海洋文化、海洋科技为一体的综合性展馆，分为热带雨林馆、极地馆、鲨鱼馆、海豚海狮表演馆、海龟馆、海豹馆、水下剧场、四维动感影院等14个展馆</p>
+<img src="http://localhost:8080/trival/images2/山东/烟台山风景区1.jpg"/>
+<img src="http://localhost:8080/trival/images2/山东/烟台山风景区2.jpg"/>
+<img src="http://localhost:8080/trival/images2/山东/蓬莱阁1.jpg"/>
+<img src="http://localhost:8080/trival/images2/山东/蓬莱阁2.jpg"/>
+<img src="http://localhost:8080/trival/images2/山东/蓬莱海洋极地世界1.jpg"/>
+<img src="http://localhost:8080/trival/images2/山东/蓬莱海洋极地世界2.jpg"/>
+<p>第五天是威海，首先是参观位于刘公岛上的刘公岛国家森林公园，总面积4000余亩，占刘公岛总面积的74%。公园有60多种树木，森林覆盖率高达87%，森林植被资源丰富。刘公岛国家森林公园是国家5A级旅游景区、国家文明风景名胜区、国家级海洋公园。包含有唐代望海楼、北洋海军忠魂碑、刘公泉等景点。接着是甲午中日战争纪念馆，以北洋海军和甲午战争为主题，以丰富的历史遗迹和特色鲜明的陈列挺秀于中国博物馆之林。岛上建有北洋海军提督署，丁汝昌寓所、水师学堂、水师养病院、铁码头、电报局、电灯台、船坞、炮台等一系列海军军事与基地保障设施。</p>
+<img src="http://localhost:8080/trival/images2/山东/刘公岛国家森林公园1.jpg"/>
+<img src="http://localhost:8080/trival/images2/山东/刘公岛国家森林公园2.jpg"/>
+<img src="http://localhost:8080/trival/images2/山东/中国甲午战争博物馆1.jpg"/>
+<img src="http://localhost:8080/trival/images2/山东/中国甲午战争博物馆2.jpg"/>
+</article>

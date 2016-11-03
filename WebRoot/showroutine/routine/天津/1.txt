@@ -1,0 +1,10 @@
+﻿<article>
+<h1>海河世纪钟广场意式风情街一日游</h1>
+<p>先抵达作为天津金融城的标志性区域——津湾广场，沿着海河漫步，享受微风的吹拂，过桥到达世纪钟广场，世纪钟高40米，通体金属，流光异彩钟摆上下，日月辉映。钟盘圆周，众星拱卫，中西交融，天人合一。古典与现代浑然一体，寓意时空延续，时不我待。然后走向意式风情街，欣赏体现浓郁意大利风情的建筑。</p>
+<img src="http://localhost:8080/trival/images2/京津/津湾广场1.jpg"/>
+<img src="http://localhost:8080/trival/images2/京津/津湾广场2.jpg"/>
+<img src="http://localhost:8080/trival/images2/京津/世纪钟广场1.jpg"/>
+<img src="http://localhost:8080/trival/images2/京津/世纪钟广场2.jpg"/>
+<img src="http://localhost:8080/trival/images2/京津/意式风情街1.jpg"/>
+<img src="http://localhost:8080/trival/images2/京津/意式风情街2.jpg"/>
+</article>

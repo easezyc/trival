@@ -1,0 +1,17 @@
+﻿<article>
+<h1>青岛两日游</h1>
+<p>第一天首先游览距青岛市中心40余公里，被称为“东海第一名山”的国家级5A级风景区——崂山风景区，可自行爬山或者是乘坐索道上山，攀登以华严寺闻名的华严山峰，可品尝当地特色的富含有多重矿物质及微量元素的崂山绿茶，观赏崂山两大名瀑之一的龙潭瀑，瀑布由八条溪水汇成八水河，河水从陡峭的悬崖飞腾直下而形成</p>
+<img src="http://localhost:8080/trival/images2/山东/崂山风景区1.jpg"/>
+<img src="http://localhost:8080/trival/images2/山东/崂山风景区2.jpg"/>
+<img src="http://localhost:8080/trival/images2/山东/滨海步行道1.jpg"/>
+<img src="http://localhost:8080/trival/images2/山东/滨海步行道2.jpg"/>
+<p>第二天乘车赴青岛市区，先是参观体现“五四运动”精神的五四广场，接着参观我国目前最大的以音乐为主题的文化休闲广场——青岛音乐广场，其次是2008年帆船比赛场地——青岛国际帆船中心，最后是亚洲最大的海水浴场——第一海水浴场</p>
+<img src="http://localhost:8080/trival/images2/山东/五四广场1.jpg"/>
+<img src="http://localhost:8080/trival/images2/山东/五四广场2.jpg"/>
+<img src="http://localhost:8080/trival/images2/山东/青岛音乐广场1.jpg"/>
+<img src="http://localhost:8080/trival/images2/山东/青岛音乐广场2.jpg"/>
+<img src="http://localhost:8080/trival/images2/山东/青岛国际帆船中心1.jpg"/>
+<img src="http://localhost:8080/trival/images2/山东/青岛国际帆船中心2.jpg"/>
+<img src="http://localhost:8080/trival/images2/山东/第一海水浴场1.jpg"/>
+<img src="http://localhost:8080/trival/images2/山东/第一海水浴场2.jpg"/>
+</article>

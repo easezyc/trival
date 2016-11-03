@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="3.0"
+    xmlns="http://java.sun.com/xml/ns/javaee"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd">
+  <servlet>
+    <description>HandleRegister</description>
+    <display-name>HandleRegister</display-name>
+    <servlet-name>HandleRegister</servlet-name>
+    <servlet-class>myservlet.control.HandleRegister</servlet-class>
+  </servlet>
+  <servlet>
+    <description>HandleLogin</description>
+    <display-name>HandleLogin</display-name>
+    <servlet-name>HandleLogin</servlet-name>
+    <servlet-class>myservlet.control.HandleLogin</servlet-class>
+  </servlet>
+  <servlet>
+    <description>HandlePassword</description>
+    <display-name>HandlePassword</display-name>
+    <servlet-name>HandlePassword</servlet-name>
+    <servlet-class>myservlet.control.HandlePassword</servlet-class>
+  </servlet>
+  <servlet>
+    <description>HandleModifyMess</description>
+    <display-name>HandleModifyMess</display-name>
+    <servlet-name>HandleModifyMess</servlet-name>
+    <servlet-class>myservlet.control.HandleModifyMess</servlet-class>
+  </servlet>
+  <servlet>
+    <description>HandleExit</description>
+    <display-name>HandleExit</display-name>
+    <servlet-name>HandleExit</servlet-name>
+    <servlet-class>myservlet.control.HandleExit</servlet-class>
+  </servlet>
+  <servlet>
+    <description>HandleLookinform</description>
+    <display-name>HandleLookinform</display-name>
+    <servlet-name>HandleLookinform</servlet-name>
+    <servlet-class>myservlet.control.HandleLookinform</servlet-class>
+  </servlet>
+  <servlet>
+    <description>HandleScenicspot</description>
+    <display-name>HandleScenicspot</display-name>
+    <servlet-name>HandleScenicspot</servlet-name>
+    <servlet-class>myservlet.control.HandleScenicspot</servlet-class>
+  </servlet>
+  <servlet>
+    <description>HandleShowscenicspot</description>
+    <display-name>HandleShowscenicspot</display-name>
+    <servlet-name>HandleShowscenicspot</servlet-name>
+    <servlet-class>myservlet.control.HandleShowscenicspot</servlet-class>
+  </servlet>
+  <servlet>
+    <description>HandleComment</description>
+    <display-name>HandleComment</display-name>
+    <servlet-name>HandleComment</servlet-name>
+    <servlet-class>myservlet.control.HandleComment</servlet-class>
+  </servlet>
+  <servlet>
+    <description>HandleShowByPage</description>
+    <display-name>HandleShowByPage</display-name>
+    <servlet-name>HandleShowByPage</servlet-name>
+    <servlet-class>myservlet.control.HandleShowByPage</servlet-class>
+  </servlet>
+  <servlet>
+    <description>HandleRoutine</description>
+    <display-name>HandleRoutine</display-name>
+    <servlet-name>HandleRoutine</servlet-name>
+    <servlet-class>myservlet.control.HandleRoutine</servlet-class>
+  </servlet>
+  <servlet>
+    <description>HandleRoutineComment</description>
+    <display-name>HandleRoutineComment</display-name>
+    <servlet-name>HandleRoutineComment</servlet-name>
+    <servlet-class>myservlet.control.HandleRoutineComment</servlet-class>
+  </servlet>
+  <servlet>
+    <description>HandleSearchroutine</description>
+    <display-name>HandleSearchroutine</display-name>
+    <servlet-name>HandleSearchroutine</servlet-name>
+    <servlet-class>myservlet.control.HandleSearchroutine</servlet-class>
+  </servlet>
+  <servlet>
+    <description>/servlet/HandleShowroutine1</description>
+    <display-name>/servlet/HandleShowroutine1</display-name>
+    <servlet-name>HandleShowroutine1</servlet-name>
+    <servlet-class>myservlet.control.HandleShowroutine1</servlet-class>
+  </servlet>
+  <servlet>
+    <description>HandleShowByPage2</description>
+    <display-name>HandleShowByPage2</display-name>
+    <servlet-name>HandleShowByPage2</servlet-name>
+    <servlet-class>myservlet.control.HandleShowByPage2</servlet-class>
+  </servlet>
+  <servlet>
+    <description>HandleShowroutine2</description>
+    <display-name>HandleShowroutine2</display-name>
+    <servlet-name>HandleShowroutine2</servlet-name>
+    <servlet-class>myservlet.control.HandleShowroutine2</servlet-class>
+  </servlet>
+  <servlet>
+    <description>HandleRoutineComment1</description>
+    <display-name>HandleRoutineComment1</display-name>
+    <servlet-name>HandleRoutineComment1</servlet-name>
+    <servlet-class>myservlet.control.HandleRoutineComment1</servlet-class>
+  </servlet>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <servlet-mapping>
+    <servlet-name>HandleRegister</servlet-name>
+    <url-pattern>/servlet/HandleRegister</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>HandleLogin</servlet-name>
+    <url-pattern>/servlet/HandleLogin</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>HandlePassword</servlet-name>
+    <url-pattern>/servlet/HandlePassword</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>HandleModifyMess</servlet-name>
+    <url-pattern>/servlet/HandleModifyMess</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>HandleExit</servlet-name>
+    <url-pattern>/servlet/HandleExit</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>HandleLookinform</servlet-name>
+    <url-pattern>/servlet/HandleLookinform</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>HandleScenicspot</servlet-name>
+    <url-pattern>/servlet/HandleScenicspot</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>HandleShowscenicspot</servlet-name>
+    <url-pattern>/servlet/HandleShowscenicspot</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>HandleComment</servlet-name>
+    <url-pattern>/servlet/HandleComment</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>HandleShowByPage</servlet-name>
+    <url-pattern>/servlet/HandleShowByPage</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>HandleRoutine</servlet-name>
+    <url-pattern>/servlet/HandleRoutine</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>HandleRoutineComment</servlet-name>
+    <url-pattern>/servlet/HandleRoutineComment</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>HandleSearchroutine</servlet-name>
+    <url-pattern>/servlet/HandleSearchroutine</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>HandleShowroutine1</servlet-name>
+    <url-pattern>/servlet/HandleShowroutine1</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>HandleShowByPage2</servlet-name>
+    <url-pattern>/servlet/HandleShowByPage2</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>HandleShowroutine2</servlet-name>
+    <url-pattern>/servlet/HandleShowroutine2</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>HandleRoutineComment1</servlet-name>
+    <url-pattern>/servlet/HandleRoutineComment1</url-pattern>
+  </servlet-mapping>
+
+</web-app>

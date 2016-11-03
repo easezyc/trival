@@ -1,0 +1,25 @@
+﻿<article>
+<h1>淄博枣庄两日游</h1>
+<p>首先在淄博参观开元溶洞，它是江北最大的溶洞，洞内各种石钟乳等自然景物玲珑剔透，形象逼真，令人目不暇接，被誉为“山东第一洞”。主要有水帘洞厅、龙脊厅等。
+<img src="http://localhost:8080/trival/images2/山东/开元溶洞1.jpg"/>
+<img src="http://localhost:8080/trival/images2/山东/开元溶洞2.jpg"/>
+接着是牛郎织女景区，景区具有中国唯一一处以牛郎织女民间传说为主题的古建筑遗址，被专家称为“中国爱情文化源地”。主要景点有织女洞、牛郎庙、情人谷、叶籽银杏、织女泉等人文景观和各种石刻碑林。
+<img src="http://localhost:8080/trival/images2/山东/牛郎织女景区1.jpg"/>
+<img src="http://localhost:8080/trival/images2/山东/牛郎织女景区2.jpg"/>
+最后是淄博市唯一一家国家级森林公园——原山国家森林公园，分为凤凰山、禹王山、望鲁山、薛家顶、夹谷台五大景区，涵括120多个山峰。
+<img src="http://localhost:8080/trival/images2/山东/原山国家森林公园1.jpg"/>
+<img src="http://localhost:8080/trival/images2/山东/原山国家森林公园1.jpg"/>
+</p>
+<p>第二天从淄博出发到达枣庄，参观台儿庄古城，古城肇始于秦汉，发展于唐宋，繁荣于明清，有“天下第一庄”之称， 11个功能分区、8大景区和29个景点，是中国国内规模最大的古城，为国家5A级旅游景区，有“中国最美水乡”之誉。
+<img src="http://localhost:8080/trival/images2/山东/台儿庄古城1.jpg"/>
+<img src="http://localhost:8080/trival/images2/山东/台儿庄古城2.jpg"/>
+其次是抱犊崮国家森林公园，主峰抱犊崮为“沂蒙七十二崮”之首。面积达665.5公顷，国家4A级风景名胜区。
+<img src="http://localhost:8080/trival/images2/山东/抱犊崮国家森林公园1.jpg"/>
+<img src="http://localhost:8080/trival/images2/山东/抱犊崮国家森林公园2.jpg"/>
+然后是国家5A级景区台儿庄大战纪念馆。台儿庄大战是抗日战争初期中国军队继平型关大捷后的又一重大胜利，也是国共两党第二次合作的光辉结晶。台儿庄大战纪念馆展览馆共分3个展室。
+<img src="http://localhost:8080/trival/images2/山东/台儿庄大战纪念馆1.jpg"/>
+<img src="http://localhost:8080/trival/images2/山东/台儿庄大战纪念馆2.jpg"/>
+最后是微山湖湿地红荷旅游区，东依蒙沂山脉，西濒烟波浩渺的微山湖之一的独山湖，南连苏北富庶之地，北邻孔孟圣贤之乡，有55公里的湖岸线、丰富的物种资源、万亩的野生红荷、数十平方公里的芦苇荡及国内罕见的水上森林，风光旖旎，美不胜收。主要景观有钓鱼台、百荷诗廊、天一岛等。</p>
+<img src="http://localhost:8080/trival/images2/山东/微山湖湿地红荷旅游区1.jpg"/>
+<img src="http://localhost:8080/trival/images2/山东/微山湖湿地红荷旅游区2.jpg"/>
+</article>

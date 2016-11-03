@@ -1,0 +1,13 @@
+﻿<article>
+<h1>临沂两日游</h1>
+<p>首先逛沂蒙影视基地，是沂蒙革命根据地的中心，是百姓集体英雄主义纪念地，是沂蒙精神发源地，至今保留着抗战时期的古村风貌，集红色旅游、影视拍摄、党性教育、餐饮娱乐等功能于一体，是国家4A景区。接着去集地下奇观、休闲娱乐、会议、餐饮、居住、商务、科普、健身等为一体的 “沂水天然地下画廊”旅游风景区，景区由三部分组成： “天然地下画廊”、“怡然居”、生态山林。</p>
+<img src="http://localhost:8080/trival/images2/山东/沂蒙影视基地1.jpg"/>
+<img src="http://localhost:8080/trival/images2/山东/沂蒙影视基地2.jpg"/>
+<img src="http://localhost:8080/trival/images2/山东/“沂水天然地下画廊”旅游风景区1.jpg"/>
+<img src="http://localhost:8080/trival/images2/山东/“沂水天然地下画廊”旅游风景区2.jpg"/>
+<p>第二天首先去蒙山旅游区，蒙山旅游区管委会共设置15个内设机构，为更好地做好旅游发展、服务、管理工作，在辖区内设置了5个景区管理处，分别是龟蒙景区管理处、云蒙景区管理处、大洼景区管理处、明光寺景区管理处、沂蒙国家钻石公园管理处。然后去孟良崮旅游区，主要景点有孟良崮国家级森林公园、孟良崮战役纪念碑和孟良崮战役纪念馆。孟良崮国家级森林公园占地800公顷，孟良崮主峰上建有孟良崮战役纪念碑，山下建有孟良崮战役纪念馆。</p>
+<img src="http://localhost:8080/trival/images2/山东/蒙山旅游区1.jpg"/>
+<img src="http://localhost:8080/trival/images2/山东/蒙山旅游区2.jpg"/>
+<img src="http://localhost:8080/trival/images2/山东/孟良崮旅游区1.jpg"/>
+<img src="http://localhost:8080/trival/images2/山东/孟良崮旅游区2.jpg"/>
+</article>

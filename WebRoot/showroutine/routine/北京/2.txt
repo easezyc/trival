@@ -1,0 +1,16 @@
+﻿<article>
+<h1>古都专线一日游</h1>
+<p>从住处乘车到天安门广场，游览世界最大的城市中心广场——天安门广场，天安门广场是北京的心脏地带，是世界上最大的城市中心广场，占地面积44公顷，东西宽500米，南北长880米。参观毛主席纪念堂、国家博物馆外景。乘车赴世界最美的皇家园林慈喜太后行宫---颐和园，它是我国现存规模最大，保存最完整、最美的皇家园林，也是世界上最广阔的皇家园林之一，共有亭、台、楼、阁、廊、榭等不同形式的建筑3000多间。古树名木1600余株。午餐后简单休息调整。前往世界现存的最大皇家建筑群——故宫，故宫又名紫禁城，北京故宫博物院位于北京故宫紫禁城内，建于1925年。是在明、清两代皇宫及其收藏的基础上建立起来的中国综合性博物馆，也是中国最大的古代文化艺术博物馆，进入故宫欣赏其中收藏的珍稀文物。出发前往皇家最大，保存最好的祭天、祈谷场所——天坛，天坛占地273公顷，由明成祖朱棣建于永乐十八年，是明、清两代帝王冬至日时祭皇天上帝和正月上辛日行祈谷礼的地方。建筑布局呈“回”字形，由两道坛墙分成内坛、外坛两大部分。天坛设计巧妙、色彩调和、建筑高超。其中著名景点有圜丘坛、皇穹宇、祈年殿等。</p>
+<img src="http://localhost:8080/trival/images2/京津/天安门广场1.jpg"/>
+<img src="http://localhost:8080/trival/images2/京津/天安门广场2.jpg"/>
+<img src="http://localhost:8080/trival/images2/京津/毛主席纪念堂1.jpg"/>
+<img src="http://localhost:8080/trival/images2/京津/毛主席纪念堂2.jpg"/>
+<img src="http://localhost:8080/trival/images2/京津/中国国家博物馆1.jpg"/>
+<img src="http://localhost:8080/trival/images2/京津/中国国家博物馆2.jpg"/>
+<img src="http://localhost:8080/trival/images2/京津/颐和园1.jpg"/>
+<img src="http://localhost:8080/trival/images2/京津/颐和园2.jpg"/>
+<img src="http://localhost:8080/trival/images2/京津/北京故宫博物院1.jpg"/>
+<img src="http://localhost:8080/trival/images2/京津/北京故宫博物院2.jpg"/>
+<img src="http://localhost:8080/trival/images2/京津/天坛1.jpg"/>
+<img src="http://localhost:8080/trival/images2/京津/天坛2.jpg"/>
+</article>

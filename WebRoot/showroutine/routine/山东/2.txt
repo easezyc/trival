@@ -1,0 +1,21 @@
+﻿<article>
+<h1>济南泰安三日游</h1>
+<p>首先抵达趵突泉，趵突泉是济南的标志性旅游景点，里面有清澈的泉水，还有繁茂的大树以及各类花卉，里面的济南惨案纪念堂也是带领人们回顾历史的爱国主义教育基地</p>
+<img src="http://localhost:8080/trival/images2/山东/趵突泉公园1.jpg"/>
+<img src="http://localhost:8080/trival/images2/山东/趵突泉公园2.jpg"/>
+<p>接着去大明湖，大明湖湖水澄澈，四周绿树环绕，微风吹拂，在湖上泛舟游玩能让人心情愉悦</p>
+<img src="http://localhost:8080/trival/images2/山东/大明湖1.jpg"/>
+<img src="http://localhost:8080/trival/images2/山东/大明湖2.jpg"/>
+<p>夜晚就去逛逛有名的芙蓉街，这条街上有许许多多的小吃，但凡你能想得到的都能在这里找到，人群熙熙攘攘，热闹非凡</p>
+<img src="http://localhost:8080/trival/images2/山东/芙蓉街1.jpg"/>
+<img src="http://localhost:8080/trival/images2/山东/芙蓉街2.jpg"/>
+<p>第二天参观济南博物馆，济南博物馆是新中国成立后建立的第一座省级综合性地志博物馆，里面藏品丰富，具有深厚的历史价值</p>
+<img src="http://localhost:8080/trival/images2/山东/山东省博物馆1.jpg"/>
+<img src="http://localhost:8080/trival/images2/山东/山东省博物馆2.jpg"/>
+<p>接着去千佛山，千佛山古称历山，是济南三大名胜之一，海拔285米，包括有万佛洞、千佛崖等景点，爬上千佛山顶，基本可以俯视整个济南城区，享受独特的观赏视角</p>
+<img src="http://localhost:8080/trival/images2/山东/千佛山1.jpg"/>
+<img src="http://localhost:8080/trival/images2/山东/千佛山2.jpg"/>
+<p>晚上乘坐火车到达泰安，接着到达泰山风景区，它是世界文化与自然双重遗产，世界地质公园，国家重点风景名胜区，国家5A级旅游景区。有“五岳之首”、“五岳之长”、“天下第一山”之称。主峰玉皇顶，在泰安市城区北，海拔1545米。夜晚攀登，可以看见泰山壮美的日出，早晨下山一路景色更优美。</p>
+<img src="http://localhost:8080/trival/images2/山东/泰山1.jpg"/>
+<img src="http://localhost:8080/trival/images2/山东/泰山2.jpg"/>
+</article>

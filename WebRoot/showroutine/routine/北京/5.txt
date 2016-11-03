@@ -1,0 +1,41 @@
+﻿<article>
+<h1>京津五日游</h1>
+<p>第一天从住处乘车到天安门广场，游览世界最大的城市中心广场——天安门广场，天安门广场是北京的心脏地带，是世界上最大的城市中心广场，占地面积44公顷，东西宽500米，南北长880米。参观毛主席纪念堂、国家博物馆外景。乘车赴世界最美的皇家园林慈喜太后行宫---颐和园，它是我国现存规模最大，保存最完整、最美的皇家园林，也是世界上最广阔的皇家园林之一，共有亭、台、楼、阁、廊、榭等不同形式的建筑3000多间。古树名木1600余株。午餐后简单休息调整。前往世界现存的最大皇家建筑群——故宫，故宫又名紫禁城，北京故宫博物院位于北京故宫紫禁城内，建于1925年。是在明、清两代皇宫及其收藏的基础上建立起来的中国综合性博物馆，也是中国最大的古代文化艺术博物馆，进入故宫欣赏其中收藏的珍稀文物。出发前往皇家最大，保存最好的祭天、祈谷场所——天坛，天坛占地273公顷，由明成祖朱棣建于永乐十八年，是明、清两代帝王冬至日时祭皇天上帝和正月上辛日行祈谷礼的地方。建筑布局呈“回”字形，由两道坛墙分成内坛、外坛两大部分。天坛设计巧妙、色彩调和、建筑高超。其中著名景点有圜丘坛、皇穹宇、祈年殿等。</p>
+<img src="http://localhost:8080/trival/images2/京津/天安门广场1.jpg"/>
+<img src="http://localhost:8080/trival/images2/京津/天安门广场2.jpg"/>
+<img src="http://localhost:8080/trival/images2/京津/毛主席纪念堂1.jpg"/>
+<img src="http://localhost:8080/trival/images2/京津/毛主席纪念堂2.jpg"/>
+<img src="http://localhost:8080/trival/images2/京津/中国国家博物馆1.jpg"/>
+<img src="http://localhost:8080/trival/images2/京津/中国国家博物馆2.jpg"/>
+<img src="http://localhost:8080/trival/images2/京津/颐和园1.jpg"/>
+<img src="http://localhost:8080/trival/images2/京津/颐和园2.jpg"/>
+<img src="http://localhost:8080/trival/images2/京津/北京故宫博物院1.jpg"/>
+<img src="http://localhost:8080/trival/images2/京津/北京故宫博物院2.jpg"/>
+<img src="http://localhost:8080/trival/images2/京津/天坛1.jpg"/>
+<img src="http://localhost:8080/trival/images2/京津/天坛2.jpg"/>
+<p> 乘车到达古北水镇，它全称为北京密云·古北水镇（司马台长城）国际旅游度假区，位于北京市密云县古北口镇，背靠中国最美、最险的司马台长城，坐拥鸳鸯湖水库，是京郊罕见的山水城结合的自然古村落，下辖古北水镇和司马台长城两个游览区。
+</p>
+<img src="http://localhost:8080/trival/images2/京津/古北水镇1.jpg"/>
+<img src="http://localhost:8080/trival/images2/京津/古北水镇2.jpg"/>
+<p>第四天出发前往举世文明的万里长城——八达岭长城，游览世界八大奇迹之——八达岭长城，游览攀登上888米的好汉坡，纵览巍巍长城内外，体会古今好汉豪情；烽火台上举目远望，长城大好河山尽收眼底，八达岭长城的战略地位在历史上是非常重要的，所以此段长城修筑工程之宏大，城墙的坚固，敌楼密集。城墙随着山峰的走势，蜿蜒起伏，如巨龙盘绕。会让您感慨古人的聪 明和才智，不愧被称之为“世界八大奇迹之一”；午餐后参观御鹿苑，简单休息调整。然后去位于万里长城八达岭和居庸关之间的八达岭国家森林公园，总面积4.4万亩，最高峰海拔1238米，分布有539种植物，158种动物，林木绿化率达96%，主要景区由于红叶岭风景区、青龙谷风景区、丁香谷风景区、石峡风景区。主要景点有望龙台、绚彩林、揽月台、赤道、赤壁等。驱车前往明十三陵，明十三陵是世界文化遗产，总面积约一百二十余平方公里。自永乐七年五月始作长岭，到明朝最后一帝崇祯葬入思陵为止，期间历时230多年，修建了十三位皇帝陵墓、七座妃子墓、一座太监墓。</p>
+<img src="http://localhost:8080/trival/images2/京津/长城1.jpg"/>
+<img src="http://localhost:8080/trival/images2/京津/长城2.jpg"/>
+<img src="http://localhost:8080/trival/images2/京津/八达岭国家森林公园1.jpg"/>
+<img src="http://localhost:8080/trival/images2/京津/八达岭国家森林公园2.jpg"/>
+<img src="http://localhost:8080/trival/images2/京津/明十三陵1.jpg"/>
+<img src="http://localhost:8080/trival/images2/京津/明十三陵2.jpg"/>
+<p>第五天抵达天津，看中华世纪钟，欣赏海河风光带。游览世界上独一无二的城市景观具有“万国建筑博览城”之称的意式风情街。曾是天津近代史上意大利租借地的中心区。街区风貌独特，是目前意大利本土之外、亚洲唯一、保存良好的意大利风貌建筑群落，具有宝贵的历史文化价值。
+赴全国最大的美食城堡--南市食品街。“每个城市饮食文化都代表一个城市的品味”可品尝几百种天津独特的风味小吃(品尝天津老三绝的狗不理包子，天津麻花，耳朵眼炸糕三绝的皮糖张，果仁张，蹦豆张)，体会天津独有的饮食文化。
+参观600年码头文化，全国5A级旅游景区，天津文化起源地--古文化街：感受中国味，天津味，文化味，古味，领略地道的天津风土人情。欣赏天津民间工艺品三绝---“泥人张彩塑、杨柳青年画、风筝魏风筝”。
+午餐后前往周邓故居，参观周恩来与邓颖超纪念馆，瓷房子；</p>
+<img src="http://localhost:8080/trival/images2/京津/世纪钟广场1.jpg"/>
+<img src="http://localhost:8080/trival/images2/京津/世纪钟广场2.jpg"/>
+<img src="http://localhost:8080/trival/images2/京津/意式风情街1.jpg"/>
+<img src="http://localhost:8080/trival/images2/京津/意式风情街2.jpg"/>
+<img src="http://localhost:8080/trival/images2/京津/天津食品街1.jpg"/>
+<img src="http://localhost:8080/trival/images2/京津/天津食品街2.jpg"/>
+<img src="http://localhost:8080/trival/images2/京津/古文化街1.jpg"/>
+<img src="http://localhost:8080/trival/images2/京津/古文化街2.jpg"/>
+<img src="http://localhost:8080/trival/images2/京津/周邓故居1.jpg"/>
+<img src="http://localhost:8080/trival/images2/京津/周邓故居2.jpg"/>
+</article>

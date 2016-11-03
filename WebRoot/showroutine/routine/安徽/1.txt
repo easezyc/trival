@@ -1,0 +1,14 @@
+﻿<article>
+<h1>黄山两日游</h1>
+<p>首先抵达黄山风景区，黄山原名黟山，是国家5A级旅游景区，著名的黄山四绝为奇松怪石云海温泉，在此处可观赏迎客松、一线天、清凉台、光明顶等著名景点，上下山都可步行或者乘坐缆车</p>
+<img src="http://localhost:8080/trival/images2/安徽/黄山1.jpg"/>
+<img src="http://localhost:8080/trival/images2/安徽/黄山2.jpg"/>
+<p>然后去西递宏村，西递宏村是安徽南部民居中最具有代表性的两座古村落，被人们称为“画中的村庄”，绝对会带来世外桃源般的美好感受/p>
+<img src="http://localhost:8080/trival/images2/安徽/西递宏村1.jpg"/>
+<img src="http://localhost:8080/trival/images2/安徽/西递宏村2.jpg"/>
+<p>最后去徽州古城和呈坎古镇，徽州古城是国家5A级景区古徽州文化旅游区的重要组成部分。徽州古城与安居古城、平遥古城、阆中古城并称为中国保存最完好的四大古城，有许国石坊、许国相府、南谯楼、阳和门、徽州府衙、徽园、斗山街等；呈坎人杰地灵，呈坎古镇被称为“江南第一村”“中国古建筑艺术博物馆”</p>
+src="http://localhost:8080/trival/images2/安徽/徽州古城1.jpg"/>
+<img src="http://localhost:8080/trival/images2/安徽/徽州古城2.jpg"/>
+<img src="http://localhost:8080/trival/images2/安徽/呈坎古镇1.jpg"/>
+<img src="http://localhost:8080/trival/images2/安徽/呈坎古镇2.jpg"/>
+</article>

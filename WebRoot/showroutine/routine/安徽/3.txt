@@ -1,0 +1,6 @@
+﻿<article>
+<h1>九华山一日游</h1>
+<p>抵达九华山风景区，参观九华山最为古老的佛寺——化城寺，然后徒步或者乘坐缆车到达百岁宫，朝拜明代高僧无瑕和尚肉身，接着到达五百罗汉堂，最后到达天台景区，主要景点有十王峰、天台寺、天台晓日等</p>
+<img src="http://localhost:8080/trival/images2/安徽/九华山风景区1.jpg"/>
+<img src="http://localhost:8080/trival/images2/安徽/九华山风景区2.jpg"/>
+</article>

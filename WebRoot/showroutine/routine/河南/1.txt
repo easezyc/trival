@@ -1,0 +1,8 @@
+﻿<article>
+<h1>少林寺龙门石窟一日游</h1>
+<p>乘车赴中国武术之乡——登封，抵达少林寺景区，参观嵩山少林核心景区——常住院及山门殿、大雄宝殿、方丈室等，感受少林寺1500多年的禅文化，参观中国现存规模最大、保存最完整的古代塔群落——塔林，聆听历代高僧的传奇故事。然后观看少林寺武术表演，乘车到达洛阳，游览中国三大石窟艺术宝库之一，最大的皇家石刻艺术宝库——龙门石窟，著名景点有万佛洞、奉先寺、莲花洞等等</p>
+<img src="http://localhost:8080/trival/images2/河南/天地之中历史古迹1.jpg"/>
+<img src="http://localhost:8080/trival/images2/河南/天地之中历史古迹2.jpg"/>
+<img src="http://localhost:8080/trival/images2/河南/龙门博物馆1.jpg"/>
+<img src="http://localhost:8080/trival/images2/河南/龙门博物馆2.jpg"/>
+</article>
